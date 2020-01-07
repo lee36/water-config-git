@@ -21,4 +21,4 @@ management:
     web:
       exposure:
         include: '*'
-aa: 傻逼李真
+aa: 999
