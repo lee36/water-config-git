@@ -21,4 +21,4 @@ management:
     web:
       exposure:
         include: '*'
-aa: 12366
+aa: 123
