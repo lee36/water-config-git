@@ -10,3 +10,9 @@ eureka:
       defaultZone: http://${eureka.instance.hostname}:8080/eureka
     fetch-registry: true
     register-with-eureka: true
+  spring:
+    rabbitmq:
+      host: 192.168.99.100
+      username: guest
+      password: guest   
+    
