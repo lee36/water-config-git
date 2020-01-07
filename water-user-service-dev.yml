@@ -16,3 +16,8 @@ eureka:
       username: admin
       password: admin   
     
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
